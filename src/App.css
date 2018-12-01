@@ -6,9 +6,68 @@
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
 }
+.bg {
+  background-color: #e7ebf3;
+}
+.bg-white {
+  background-color: white;
+  height: 57px;
+}
+.bg-blue {
+  background-color: lightskyblue;
+}
+.bg-orange{
+  background-color: #ff9e4e;
+}
+.inline-block{
+  display: inline-block;
+}
+.margin-t{
+  margin-top: 0px;
+}
+.bg-green{
+  background-color: #6fcfaa;
+}
+.bg-red{
+  background-color: rgb(241, 69, 104);
+}
+
+.b-radius{
+  border-radius: 2% !important;
+}
+
+.small-f{
+  font-size: 11px;
+  color: rgb(165, 165, 165);
+}
+
+.mid-f{
+  font-size: 20px;
+}
+
+.text-center{
+  text-align: center;
+}
+.fas, .far{
+  font-size: 40px;
+}
+
+.pr-4{
+  padding-right: 1.3rem !important;
+}
+
+.pl-4{
+  padding-left: 1.3rem !important;
+}
+
+
+    .menu-block {
+        display: block !important;
+    }
+
 
 .App-header {
-  background-color: #282c34;
+  background-color: #e7ebf3;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

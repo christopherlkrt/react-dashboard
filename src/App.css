@@ -52,19 +52,9 @@
   font-size: 40px;
 }
 
-.pr-4{
-  padding-right: 1.3rem !important;
+.fap {
+  font-size: 35px !important;
 }
-
-.pl-4{
-  padding-left: 1.3rem !important;
-}
-
-
-    .menu-block {
-        display: block !important;
-    }
-
 
 .App-header {
   background-color: #e7ebf3;

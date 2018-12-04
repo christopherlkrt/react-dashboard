@@ -39,7 +39,7 @@ class Icons_menu extends Component{
         </div>
         <div className="col-xs-12 col-sm-12 col-md-4 col-lg-2 col-12 p-0 mr-4 bg-white b-radius d-flex mb-3">
           <div className="inline-block text-center b-radius bg-orange p-2 pr-4 pl-4">
-            <i className="far fa-comment"></i>
+            <i className="far fap fa-comment"></i>
           </div>
           <div>
               <span className="ml-2 mid-f d-block">{items.comments}</span>
@@ -56,8 +56,8 @@ class Icons_menu extends Component{
           </div>
         </div>
         <div className="col-xs-12 col-sm-12 col-md-4 col-lg-2 col-12 p-0 bg-white b-radius d-flex">
-          <div className="inline-block text-center b-radius p-2 p-fixed bg-red">
-            <i className="fas fa-table"></i>
+          <div className="inline-block text-center b-radius p-2 pr-4 pl-4 bg-red">
+            <i className="fas fa-table fap"></i>
           </div>
           <div>
               <span className="ml-2 mid-f d-block">{items.pageViews}</span>
